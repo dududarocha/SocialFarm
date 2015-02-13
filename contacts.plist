@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>peso</key>
+		<string>200KG</string>
+		<key>preco</key>
+		<string>RS 900,00</string>
+		<key>raca</key>
+		<string>Nelore</string>
+		<key>imageName</key>
+		<string>boi1.jpg</string>
+	</dict>
+	<dict>
+		<key>peso</key>
+		<string>199KG</string>
+		<key>preco</key>
+		<string>RS 850,00</string>
+		<key>raca</key>
+		<string>Sadia</string>
+		<key>imageName</key>
+		<string>boi2.jpg</string>
+	</dict>
+	<dict>
+		<key>peso</key>
+		<string>300KG</string>
+		<key>preco</key>
+		<string>RS 1000,00</string>
+		<key>raca</key>
+		<string>Hereford</string>
+		<key>imageName</key>
+		<string>boi3.jpg</string>
+	</dict>
+	<dict>
+		<key>peso</key>
+		<string>350KG</string>
+		<key>preco</key>
+		<string>RS 750,00</string>
+		<key>raca</key>
+		<string>Aberdeen</string>
+		<key>imageName</key>
+		<string>boi4.jpg</string>
+	</dict>
+	<dict>
+		<key>peso</key>
+		<string>400KG</string>
+		<key>preco</key>
+		<string>RS 500,00</string>
+		<key>raca</key>
+		<string>Charoles</string>
+		<key>imageName</key>
+		<string>boi5.jpg</string>
+	</dict>
+</array>
+</plist>
